@@ -1,18 +1,7 @@
-<div align="center">
-
-```
-███████╗ █████╗  █████╗ ████████╗    ██████╗ ██████╗  █████╗ ███████╗ ██████╗      ██╗ ██████╗ 
-██╔════╝██╔══██╗██╔══██╗╚══██╔══╝    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗     ██║██╔═══██╗
-█████╗  ███████║███████║   ██║       ██████╔╝██████╔╝███████║███████╗██║   ██║     ██║██║   ██║
-██╔══╝  ██╔══██║██╔══██║   ██║       ██╔═══╝ ██╔══██╗██╔══██║╚════██║██║   ██║██   ██║██║   ██║
-██║     ██║  ██║██║  ██║   ██║       ██║     ██║  ██║██║  ██║███████║╚██████╔╝╚█████╔╝╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚════╝  ╚═════╝ 
-```
-
-</div>
+![faat-prasojo](img/github-header-banner.png)
 
 <div align="center">
-  <a href="mailto:prasojofaat@gmail.com"> 
+  <a href="mailto:prasojofaat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge" />
@@ -47,19 +36,18 @@ _Fetching language data..._
 <!-- START:TECH_STACK -->
 _Fetching tech stack..._
 <!-- END:TECH_STACK -->
-
-
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faat-prasojo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Faat Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faat-prasojo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Faat Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faat-prasojo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="Faat Stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faat-prasojo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Faat Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faat-prasojo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="Faat Streak" />
+  <img src="https://streak-stats.demolab.com/?user=faat-prasojo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="Faat Streak" />
 </div>
 
 ---
@@ -90,6 +78,7 @@ I'm actively looking to contribute to:
   _Last updated: not yet run_
   <!-- END:LAST_UPDATED -->
 
-  <br/>
+  <br/><br/>
   <sub><code>while (!done) { code(); debug(); repeat(); }</code></sub>
+  <br/><br/>
 </div>
