@@ -1,27 +1,98 @@
-![faat-prasojo](img/github-header-banner.png)
+<div align="center">
 
-I am an Information Technology student with a strong passion for Web Development and Software Engineering. I love solving problems through code and building functional, impactful web applications.
+```
+███████╗ █████╗  █████╗ ████████╗    ██████╗ ██████╗  █████╗ ███████╗ ██████╗      ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔══██╗╚══██╔══╝    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗     ██║██╔═══██╗
+█████╗  ███████║███████║   ██║       ██████╔╝██████╔╝███████║███████╗██║   ██║     ██║██║   ██║
+██╔══╝  ██╔══██║██╔══██║   ██║       ██╔═══╝ ██╔══██╗██╔══██║╚════██║██║   ██║██   ██║██║   ██║
+██║     ██║  ██║██║  ██║   ██║       ██║     ██║  ██║██║  ██║███████║╚██████╔╝╚█████╔╝╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚════╝  ╚═════╝ 
+```
+
+</div>
+
+<div align="center">
+  <a href="mailto:prasojofaat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-4-58a6ff?style=for-the-badge" />
+</div>
+
+<br/>
+
+```js
+const faat = {
+  role     : "IT Student & Aspiring Web Developer",
+  focus    : ["Web Development", "Software Engineering"],
+  learning : "Laravel Framework — building robust & scalable apps",
+  collab   : ["Open Source", "PHP/Laravel Projects", "JavaScript Apps"],
+  goal     : "Turn ideas into functional, impactful applications",
+  funFact  : "Won't sleep until the bug is fixed. Even if it's just a ';'",
+};
+```
 
 ---
 
-### 🚀 About Me
+### 📊 Language Usage
+> Data diambil langsung dari seluruh repository kamu via GitHub API.
 
-- 🔭 **I’m currently working on:** College projects and a few personal side projects to sharpen my coding skills.
-- 🌱 **I’m currently learning:** **Laravel Framework** (PHP) to build more robust, secure, and scalable web applications.
-- 👯 **I’m looking to collaborate on:** Open-source projects or college group work involving PHP/Laravel or JavaScript.
-- 🤔 **I’m looking for help with:** Optimizing database architecture and implementing efficient RESTful APIs in Laravel.
-- 💬 **Ask me about:** Programming basics, HTML/CSS, Bootstrap/Tailwind, or the ups and downs of being an IT student.
-- 📫 **How to reach me:** prasojofaat@gmai.com
-- ⚡ **Fun fact:** I can spend hours hunting for a bug just to find out it was a missing semicolon (`;`), but I won't sleep until it's fixed!
+<!-- START:LANG_USAGE -->
+_Fetching language data..._
+<!-- END:LANG_USAGE -->
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
+> Dideteksi dari **topics** yang kamu set di tiap repository.
 
-- **Languages:** 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<!-- START:TECH_STACK -->
+_Fetching tech stack..._
+<!-- END:TECH_STACK -->
 
-- **Frameworks & Libraries:** Laravel, Bootstrap / Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, XAMPP / Laragon
+> 💡 Tambahkan topics di repo kamu (mis. `laravel`, `tailwindcss`, `mysql`) agar muncul di sini.
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faat-prasojo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faat-prasojo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faat-prasojo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+### 🔭 Currently working on
+
+- 🏗️ **College projects** — sharpening real-world engineering skills
+- ⚡ **Laravel** — mastering MVC, Eloquent ORM, REST APIs
+- 🎯 **Personal side projects** — ideas that keep me up at night
+
+---
+
+### 🤝 Let's collaborate
+
+I'm actively looking to contribute to:
+- Open-source PHP / Laravel repositories
+- JavaScript-based web applications
+- College group projects that push me outside my comfort zone
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=faat-prasojo&style=flat-square&color=58a6ff&label=profile+views" />
+
+  <br/><br/>
+
+  <!-- START:LAST_UPDATED -->
+  _Last updated: not yet run_
+  <!-- END:LAST_UPDATED -->
+
+  <br/>
+  <sub><code>while (!done) { code(); debug(); repeat(); }</code></sub>
+</div>
