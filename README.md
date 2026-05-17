@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:prasojofaat@gmail.com">
+  <a href="mailto:prasojofaat@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge" />
