@@ -26,7 +26,9 @@ const faat = {
 ### 📊 Language Usage
 
 <!-- START:LANG_USAGE -->
-_Fetching language data..._
+```
+  Python         ████████████████████  100.0%
+```
 <!-- END:LANG_USAGE -->
 
 ---
@@ -34,7 +36,8 @@ _Fetching language data..._
 ### 🛠️ Tech Stack
 
 <!-- START:TECH_STACK -->
-_Fetching tech stack..._
+_No topics detected. Add topics to your repos on GitHub!_
+
 <!-- END:TECH_STACK -->
 ---
 
@@ -75,8 +78,8 @@ I'm actively looking to contribute to:
   <br/><br/>
 
   <!-- START:LAST_UPDATED -->
-  _Last updated: not yet run_
-  <!-- END:LAST_UPDATED -->
+_Last updated: 17 May 2026, 17:41 UTC_
+<!-- END:LAST_UPDATED -->
 
   <br/><br/>
   <sub><code>while (!done) { code(); debug(); repeat(); }</code></sub>
