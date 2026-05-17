@@ -15,7 +15,7 @@ GITHUB_TOKEN = os.environ["GH_TOKEN"]          # dari GitHub Actions secret
 USERNAME     = os.environ.get("GITHUB_ACTOR", "faat-prasojo")  # otomatis dari Actions
 HEADERS      = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
-    "Accept": "application/vnd.github+json",
+    "Accept": "application/vnd.github+json", 
     "X-GitHub-Api-Version": "2022-11-28",
 }
 
