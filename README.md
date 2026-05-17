@@ -35,7 +35,6 @@ const faat = {
 ---
 
 ### 📊 Language Usage
-> Data diambil langsung dari seluruh repository kamu via GitHub API.
 
 <!-- START:LANG_USAGE -->
 _Fetching language data..._
@@ -44,13 +43,11 @@ _Fetching language data..._
 ---
 
 ### 🛠️ Tech Stack
-> Dideteksi dari **topics** yang kamu set di tiap repository.
 
 <!-- START:TECH_STACK -->
 _Fetching tech stack..._
 <!-- END:TECH_STACK -->
 
-> 💡 Tambahkan topics di repo kamu (mis. `laravel`, `tailwindcss`, `mysql`) agar muncul di sini.
 
 ---
 
