@@ -27,7 +27,12 @@ const faat = {
 
 <!-- START:LANG_USAGE -->
 ```
-  Python         ████████████████████  100.0%
+  JavaScript     ███████████░░░░░░░░░   56.8%
+  CSS            ████░░░░░░░░░░░░░░░░   20.6%
+  HTML           ██░░░░░░░░░░░░░░░░░░   11.5%
+  PHP            █░░░░░░░░░░░░░░░░░░░    5.0%
+  Blade          █░░░░░░░░░░░░░░░░░░░    5.0%
+  SCSS           ░░░░░░░░░░░░░░░░░░░░    1.0%
 ```
 <!-- END:LANG_USAGE -->
 
@@ -78,7 +83,7 @@ I'm actively looking to contribute to:
   <br/><br/>
 
   <!-- START:LAST_UPDATED -->
-_Last updated: 17 May 2026, 17:41 UTC_
+_Last updated: 18 May 2026, 12:53 UTC_
 <!-- END:LAST_UPDATED -->
 
   <br/><br/>
