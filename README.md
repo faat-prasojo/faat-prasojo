@@ -1,24 +1,28 @@
 ![faat-prasojo](img/github-header-banner.png)
 
+<h1 align="center">Hi there, I'm Faat Prasojo! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="28"></h1>
+<h3 align="center">IT Student | Aspiring Web & Mobile Developer</h3>
+
 <div align="center">
   <a href="mailto:prasojofaat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-4-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Semester-5-58a6ff?style=for-the-badge" alt="Semester" />
 </div>
 
 <br/>
 
 ```js
 const faat = {
-  role     : "IT Student & Aspiring Web Developer",
-  focus    : ["Web Development", "Software Engineering"],
-  learning : "Laravel Framework — building robust & scalable apps",
+  role     : "IT Student & Aspiring Developer",
+  focus    : ["Web Development", "Mobile Development", "Software Engineering"],
+  learning : ["Laravel Framework", "Flutter SDK", "Dart"],
   collab   : ["Open Source", "PHP/Laravel Projects", "JavaScript Apps"],
   goal     : "Turn ideas into functional, impactful applications",
-  funFact  : "Won't sleep until the bug is fixed. Even if it's just a ';'",
+  funFact  : "Won't sleep until the bug is fixed. Even if it's just a missing ';'",
 };
+
 ```
 
 ---
