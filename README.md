@@ -46,20 +46,6 @@ _No topics detected. Add topics to your repos on GitHub!_
 <!-- END:TECH_STACK -->
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faat-prasojo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="Faat Stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faat-prasojo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Faat Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=faat-prasojo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="Faat Streak" />
-</div>
-
----
-
 ### 🔭 Currently working on
 
 - 🏗️ **College projects** — sharpening real-world engineering skills
@@ -76,17 +62,3 @@ I'm actively looking to contribute to:
 - College group projects that push me outside my comfort zone
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faat-prasojo&style=flat-square&color=58a6ff&label=profile+views" />
-
-  <br/><br/>
-
-  <!-- START:LAST_UPDATED -->
-_Last updated: 15 Jun 2026, 18:10 UTC_
-<!-- END:LAST_UPDATED -->
-
-  <br/><br/>
-  <sub><code>while (!done) { code(); debug(); repeat(); }</code></sub>
-  <br/><br/>
-</div>
